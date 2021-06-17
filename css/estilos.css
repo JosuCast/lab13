@@ -1,0 +1,17 @@
+nav[class|="navbar navbar-expand-lg navbar-light border m-5"]{
+    background: #c7c7c7;
+}
+div[class|="card col"]{
+    background: honeydew;
+}
+body{
+    background-image: url(http://vanimg.s3.amazonaws.com/awesome-bgs-11.jpg);
+}
+label{
+   color: papayawhip;
+   font-weight: bold;
+}
+h1{
+    color: papayawhip;
+    font-weight: bold;
+ }
